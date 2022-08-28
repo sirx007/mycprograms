@@ -1,4 +1,5 @@
-#include <stdio.h>
+//program to check weather a number is prime or composite 
+#include <stdio.h>      
 
 int main(void)
 {
