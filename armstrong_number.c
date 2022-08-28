@@ -3,7 +3,7 @@
 
 int main()
 {
-    int arms = 152; 
+    int arms = 153; 
    int check, rem, sum = 0;
 
    check = arms;
