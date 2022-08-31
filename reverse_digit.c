@@ -4,9 +4,18 @@
 
 int main()
 {
-    int num;
+    int num, rev;
     printf("enter a number to reverse: \n");
     scanf("%d", &num);
 
+    while (num > 0)
+    {
+        rev = num % 10;
+        printf("%d", rev);
+        num = num /10;
 
+            
+    }
+
+        return 0;
 }
